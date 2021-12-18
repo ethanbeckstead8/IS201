@@ -1,0 +1,53 @@
+@charset "UTF-8";
+body{
+  background-image: url("../images/background.jpg");
+}
+.first-div{
+  margin-left:100px;
+  background-color: red;
+  height:3500px;
+  width:1000px;
+}
+.second-div{
+background-color:cornflowerblue;
+margin-top: 80px;
+margin-left:100px;
+height:2500px;
+width: 800px;;
+}
+.another-div{
+margin:100px;
+}
+.left{
+  font-style: italic;
+  margin-left: 400px;
+}
+h2{
+  font-size:120%;
+  font-family:cursive;
+  color: rgb(17, 3, 3);
+}
+nav{
+  margin-left:500px;
+}
+.mine{
+  font-size:30px;
+  color:chartreuse;
+}
+.point{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight:300;
+}
+.change-color{
+  color:white;
+}
+.title-div{
+  background-color:white;
+  padding:10px;
+  height:100px;
+  width:980px;
+}
+.different{
+  color:blue;
+  margin-left:450px ;
+}
